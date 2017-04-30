@@ -2,3 +2,5 @@ Name_OF_Book=TestColt
 Name_of_Desk=DeskAuto
 Name_OF_CC=AutoCC
 Name_of_SubDesk=newchange_i by unnoAlmo
+added_something_more=project related
+somemore=hello
